@@ -1,5 +1,9 @@
 <?php
 
-echo 'strange php file';
+class B {
+	protected function text () {
+		echo 'Here will be a new feature';
+	}
+}
 
 ?>

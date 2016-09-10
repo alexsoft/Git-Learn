@@ -1,5 +1,4 @@
 <?php
-echo 'HELLO';
-echo 'WORLD';
 echo 'good';
+echo 22222;
 ?>
